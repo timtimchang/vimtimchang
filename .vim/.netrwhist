@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ycchang/Downloads/project/Verified Instances and Verifiability/test'
+let g:netrw_dirhist_2='/Users/ycchang/Downloads/AIML_2019_final_test'
+let g:netrw_dirhist_3='/Users/ycchang/Downloads/AIML_2019_final_test/PyGame-Learning-Environment/ple'
+let g:netrw_dirhist_4='/Users/ycchang/.vim/colors/jellybeans'
